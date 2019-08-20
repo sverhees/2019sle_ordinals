@@ -1,0 +1,222 @@
+sentence_nr	stimulus_nr	stimulus	head	position	trans	target	expected	хо	лъа	лъо	exp	var_nr	var	x	n	sp_code	version	comment	researcher
+5	1	в восьмом году	year	adverbial group	Бикьиихоб решиди макIил гванзо раъа рукIа.	бикьиихоб	хоб	exp	++	NA	exp	1	χo	13	13	AAM1963M	1	NA	Chiara
+5	1	в восьмом году	year	adverbial group	Бикьиихоб решилъи макIил гванзо раъа рукIа.	бикьиихоб	хоб	exp	*	*	exp	1	χo	13	13	KAA2001F	3	NA	Chiara
+5	1	в восьмом году	year	adverbial group	Бикьиихоб решиди макIил рукIа гванзо раъа.	бикьиихоб	хоб	exp	NA	NA	exp	1	χo	13	13	MSM1980F	3	NA	Chiara
+5	1	в восьмом году	year	adverbial group	Бикьиихоб решилъи макIил гванзо раъа ида.	бикьиихоб	хоб	exp	NA	NA	exp	1	χo	13	13	PPR1999F	2	NA	Chiara
+5	1	в восьмом году	year	adverbial group	Бикьиихоб решиди макIил гванзо раъа рукIа.	бикьиихоб	хоб	exp	*	*	exp	1	χo	13	13	SGR1957M	3	NA	Chiara
+6	1	В восьмом году дети хорошо учились.	year	adverbial group	Бикьийхоб решиди/решилъи мак1ил гванзо раъа рук1а	Бикьийхоб	хоб	exp	++	NA	exp	1	χo	13	13	GMM1962M	1	NA	Samira
+4	1	В восьмом году дети хорошо учились.	year	core argument	Бикьийхоб решиди гванзо раъа рук1а мак1ил.	Бикьийхоб	хоб	exp	*	NA	exp	1	χo	13	13	RPM1970F	3	NA	Samira
+4	1	В восьмом году дети хорошо учились.	year	core argument	Бикьихоб решиди мак1ил гванзо раъа рук1а.	Бикьихоб	хоб	exp	*	NA	exp	1	χo	13	13	AMG1954M	3	NA	Samira
+4	1	В восьмом году дети хорошо учились.	year	core argument	Бикьихоб решиди мак1ил гванзо раъа рук1а.	Бикьихоб	хоб	exp	*	NA	exp	1	χo	13	13	MKM1966M	3	NA	Samira
+4	1	В восьмом году дети хорошо учились.	year	core argument	Бикьихоб каласалъи гванзо раъа рагье.	Бикьихоб	хоб	exp	++	NA	exp	1	χo	13	13	OPO1932F	3	NA	Samira
+4	1	В восьмом году дети хорошо учились.	year	core argument	Бикьихоб решилъи мак1ил раъа рагьихал (учились, делали) рук1а гванзо	Бикьихоб	хоб	exp	NA	NA	exp	1	χo	13	13	ShPO1962F	3	NA	Samira
+5	1	В восьмом году дети хорошо учились.	year	adverbial group	Бикьихоб решилъи мак1ил гванзо раъа рук1а	Бикьихоб	хоб	exp	NA	NA	exp	1	χo	13	13	XPS1962F	2	NA	Samira
+6	1	В восьмом году дети хорошо учились.	year	adverbial group	Бикьихоб решиди мак1ил гванзо раъа рук1а	Бикьихоб	хоб	exp	*	*	exp	1	χo	13	13	AAD1969F	1	NA	Samira
+15	2	В двенадцатом году муж ездил в Москву.	year	adverbial group	NA	Гьац1а*лъи к1ейихоб/лъаб можно решиди кунт1а ваъа вук1а москва-лъа	хоб	exp	++	NA	exp	1	χo	13	13	GMM1962M	1	объяснение очень странное	Samira
+15	2	В двенадцатом году муж ездил в Москву.	year	adverbial group	Гьац1алъи к1ейихоб решиди кунт1а ваъа вук1а москвалъа	Гьац1алъи к1ейихоб	хоб	exp	*	NA	exp	1	χo	13	13	AAD1969F	1	NA	Samira
+7	2	В двенадцатом году муж ездил в Москву.	year	adverbial group	Гьац1алъи к1ейихоб решиди кунт1а масквалъа ва2ъа вук1а.	Гьац1алъи к1ейихоб	хоб	exp	*	NA	exp	1	χo	13	13	AMG1954M	3	NA	Samira
+7	2	В двенадцатом году муж ездил в Москву.	year	adverbial group	Гьац1алъи к1ейихоб решиди вацци ва2ъа масквалъа.	Гьац1алъи к1ейихоб	хоб	exp	*	NA	exp	1	χo	13	13	MKM1966M	3	NA	Samira
+7	2	В двенадцатом году муж ездил в Москву.	year	adverbial group	Гьац1алъи к1ейихоб решиди кунт1а ва2ъа масквалъа.	Гьац1алъи к1ейихоб	хоб	exp	NA	NA	exp	1	χo	13	13	OPO1932F	3	NA	Samira
+7	2	В двенадцатом году муж ездил в Москву.	year	adverbial group	Гьац1алъи к1ейихоб решиди кунт1а масквалъа ва2ъа вук1а.	Гьац1алъи к1ейихоб	хоб	exp	*	*	exp	1	χo	13	13	RPM1970F	3	NA	Samira
+7	2	В двенадцатом году муж ездил в Москву.	year	adverbial group	Гьац1алъи к1ейихоб решилъи кунт1а ва2ъа вук1а масквалъа.	Гьац1алъи к1ейихоб	хоб	exp	NA	NA	exp	1	χo	13	13	ShPO1962F	3	NA	Samira
+9	2	В двенадцатом году муж ездил в Москву.	year	adverbial group	Гьац1алъи к1ейихоб решиди кунт1а ва2ъа москву	Гьац1алъи к1ейихоб	хоб	exp	NA	+	exp	1	χo	13	13	XPS1962F	2	NA	Samira
+9	2	в двенадцатом году	year	adverbial group	ГьацIалъи кIейихоб решиди кунтIа ваъа Москвалъа.	гьацIалъи кIейихоб	хоб	exp	++	NA	exp	1	χo	13	13	AAM1963M	1	NA	Chiara
+9	2	в двенадцатом году	year	adverbial group	ГьацIалъи кIейихоб решиди кунтIа ваъа вукIа Москвалъа.	гьацIалъи кIейихоб	хоб	exp	*	*	exp	1	χo	13	13	KAA2001F	3	NA	Chiara
+9	2	в двенадцатом году	year	adverbial group	ГьацIалъи кIейихоб решиди кунтIа ваъа вукIа Москвалъа.	гьацIалъи кIейихоб	хоб	exp	NA	NA	exp	1	χo	13	13	MSM1980F	3	NA	Chiara
+9	2	в двенадцатом году	year	adverbial group	ГьацIалъи кIейихоб решиди кунтIа ваъида Москвалъа.	гьацIалъи кIейихоб	хоб	exp	NA	NA	exp	1	χo	13	13	PPR1999F	2	NA	Chiara
+9	2	в двенадцатом году	year	adverbial group	ГьацIалъи кIейихоб решиди кунтIа ваъа вукIа Москвалъа.	гьацIалъи кIейихоб	хоб	exp	*	*	exp	1	χo	13	13	SGR1957M	3	NA	Chiara
+2	3	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial phrase	Гьач1айхоб к(а)ласалъи къиматабалъи гванзи бук1е, гьац1айхоблъу гванзи бук1еуч1у.	гьач1айхоб	хоб	exp	+	*	exp	1	χo	12	13	AAD1969F	1	NA	Samira
+2	3	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб класалъи гванзи къир*матабалъи бук1е, амма гьац1айхоб класалъи гванзи къирматабалъи бук1евч1у	Гьач1айхоб	хоб	exp	NA	NA	exp	1	χo	12	13	GMM1962M	1	NA	Samira
+3	3	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб класалъи бук1е гванзи къиматабалъи, гьац1айхоб класалъи гуч1и гванзи къиматабалъи.	Гьач1айхоб	хоб	exp	*	*	exp	1	χo	12	13	MKM1966M	3	NA	Samira
+3	3	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб каласалъи къиматабалъи гванзи бук1е, а гьацайхоб каласалъи къилматабалъи къадара бук1е гванзо раъа рагьич1аруди.	Гьач1айхоб	хоб	exp	++	NA	exp	1	χo	12	13	OPO1932F	3	NA	Samira
+3	3	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб класалъи бук1е гванзи къиматабалъи, гьац1айхоблъу бук1еч1у.	Гьач1айхоб	хоб	exp	*	NA	exp	1	χo	12	13	RPM1970F	3	NA	Samira
+3	3	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб класалъи бук1е гванзи къиматабалъи, а гьац1айхоб класалъи бук1еч1у.	Гьач1айхоб	хоб	exp	NA	NA	exp	1	χo	12	13	ShPO1962F	3	NA	Samira
+4	3	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб класалъи къиматабалъи гванзида, гьац1айхоблъу гьушта гуч1и	Гьач1айхоб	хоб	exp	NA	+	exp	1	χo	12	13	XPS1962F	2	NA	Samira
+4	3	в девятом классе	grade	adverbial group	ГьачIайхоб класалъи гванзи къимат букIамале,	гьачIайхоб	хоб	exp	++	++	exp	1	χo	12	13	AAM1963M	1	NA	Chiara
+4	3	в девятом классе	grade	adverbial group	ГьачIайхоб класалъи букIе гванзи къиматабалъи,	гьачIайхоб	хоб	exp	++	++	exp	1	χo	12	13	KAA2001F	3	NA	Chiara
+4	3	в девятом классе	grade	adverbial group	ГьачIайхоб класалъи букIе гванзи къимат, 	гьачIайхоб	хоб	exp	++	++	exp	1	χo	12	13	MSM1980F	3	NA	Chiara
+4	3	в девятом классе	grade	adverbial group	ГьачIайхоб класалъи букIе гванзи оценкабалъи,	гьачIайхоб	хоб	exp	NA	NA	exp	1	χo	12	13	PPR1999F	2	NA	Chiara
+4	3	в девятом классе	grade	adverbial group	ГьачIайхоб класалъи гванзи къиматабалъи букIе,	гьачIайхоб	хоб	exp	*	*	exp	1	χo	12	13	SGR1957M	3	NA	Chiara
+3	3	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб класалъи къиматабалъи гванзи бук1е, гьац1айхоб класалъи гванзи бук1еуч1и.	Гьач1айлъаб	хоб	NA	unexp	NA	unexp	2	ɬa	1	13	AMG1954M	3	NA	Samira
+12	4	в пятом классе	grade	adverbial group	Иштуйхоб класалъи раъа ида гванзи макIил.	иштуйхоб	хоб	exp	++	NA	exp	1	χo	NA	13	AAM1963M	1	NA	Chiara
+12	4	в пятом классе	grade	adverbial group	Иштуйхоб класалъи макIил гванзо раъида.	иштуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	MSM1980F	3	NA	Chiara
+12	4	в пятом классе	grade	adverbial group	Иштуйхоб класалъи раъида гванзи макIил.	иштуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	PPR1999F	2	NA	Chiara
+12	4	в пятом классе	grade	adverbial group	Иштуйхоб класалъи гванзи макIил ида раъа.	иштуйхоб	хоб	exp	++	++	exp	1	χo	NA	13	SGR1957M	3	NA	Chiara
+4	4	В пятом классе учатся хорошие дети.	grade	adverbial group	Иштуйхоб класалъи ида гванзи мак1ил раъа	Иштуйхоб	хоб	exp	++	*	exp	1	χo	NA	13	AAD1969F	1	NA	Samira
+4	4	В пятом классе учатся хорошие дети.	grade	adverbial group	Иштуйхоб класалъи гванзи мак1ил раъа (ида)	Иштуйхоб	хоб	exp	++	NA	exp	1	χo	NA	13	GMM1962M	1	NA	Samira
+10	4	В пятом классе учатся хорошие дети.	grade	adverbial group	Иштуйхоб класалъи раъа ида гванзи мак1ил.	Иштуйхоб	хоб	exp	+	NA	exp	1	χo	NA	13	MKM1966M	3	NA	Samira
+10	4	В пятом классе учатся хорошие дети.	grade	adverbial group	Иштуйхоб класалъи мак1ил гванзо раъа ида.	Иштуйхоб	хоб	exp	*	NA	exp	1	χo	NA	13	OPO1932F	3	NA	Samira
+10	4	В пятом классе учатся хорошие дети.	grade	adverbial group	Иштуйхоб класалъи гванзи мак1ил ида раъа	Иштуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	ShPO1962F	3	NA	Samira
+12	4	В пятом классе учатся хорошие дети.	grade	adverbial group	Иштуйхоб класалъи раъида гванзи мак1ил	Иштуйхоб	хоб	exp	+	+	exp	1	χo	NA	13	XPS1962F	2	NA	Samira
+10	4	В пятом классе учатся хорошие дети.	grade	adverbial group	Иштуйлъаб класалъи раъа ида гванзи мак1ил.	Иштуйлъаб	хоб	++	unexp	NA	unexp	2	ɬa	NA	13	AMG1954M	3	ответили лъаб, но хоб больше нравится	Samira
+10	4	В пятом классе учатся хорошие дети.	grade	adverbial group	Иштуйлъаб класалъи раъалъи гванзи мак1ил ида.	Иштуйлъаб	лъаб	*	exp	NA	unexp	2	ɬa	NA	13	RPM1970F	3	NA	Samira
+12	4	в пятом классе	grade	adverbial group	Иштуйлъоб класалъи раъида гванзи макIил.	иштуйлъоб	хоб	+	++	unexp	unexp	3	ɬo	NA	13	KAA2001F	3	NA	Chiara
+14	5	в третьей семье	family	adverbial group	Гьабуйхоб хъизамади индагIалла ххинкIибалъи игье,	гьабуйхоб	хоб	exp	++	++	exp	1	χo	NA	13	AAM1963M	1	NA	Chiara
+14	5	в третьей семье	family	adverbial group	Гьабуйхоб хъизамалъи кьвани бугъа ххинкIибалъи, 	гьабуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	MSM1980F	3	NA	Chiara
+1	5	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial phrase	Гьабуйхоб хизамади бекъа-бекъа игье хинк1ибалъи, а бугъуйхоб хизамади хинк1ибалъи игьеуч1у.	гьабуйхоб	хоб	exp	++	++	exp	1	χo	NA	13	AAD1969F	1	NA	Samira
+12	5	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Гьабуйхоб хъизаналъи хинк1ибалъи бекъа-бекъа игье, бугъуйхоб хъизаналъи индак1вала игьевч1и.	Гьабуйхоб	хоб	exp	++	NA	exp	1	χo	NA	13	AMG1954M	3	NA	Samira
+1	5	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Гьабуйхоб хъизаналъи кьонни(микъиди) хинк1ибалъи игье, амма бугъуйхоб хъизаналъи хинк1ибалъи игьеуч1и индак1вала.	Гьабуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	GMM1962M	1	NA	Samira
+12	5	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Диб гьабуйхоб хъизамалъи индаг1ала хинк1ибалъи игье, бугъуйхоб хъизамалъи хинк1ибалъи индак1вала игьеч1у.	гьабуйхоб	хоб	exp	++	NA	exp	1	χo	NA	13	MKM1966M	3	NA	Samira
+12	5	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Гьабуйхоб хъизаналъи хинк1ибалъи бекъа-бекъа игье, бугъуйхоб хъизаналъи индак1вала гьеуч1и.	Гьабуйхоб	хоб	exp	*	NA	exp	1	χo	NA	13	OPO1932F	3	NA	Samira
+12	5	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Гьабуйхоб хъизамалъи бекъа-бекъа игье хинк1ибалъи, бугъуйхоб хъизамалъи индак1вала  игьеч1у хинк1ибалъи.	Гьабуйхоб	хоб	exp	++	NA	exp	1	χo	NA	13	ShPO1962F	3	NA	Samira
+14	5	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Гьабуйхоб хизамалъи бекъа-бекъа игье хинк1ибалъи, а бугъуйхоб хъизамалъи индак1вала игьеуч1у	Гьабуйхоб	хоб	exp	NA	*	exp	1	χo	NA	13	XPS1962F	2	NA	Samira
+14	5	в третьей семье	family	adverbial group	Гьабуйхоб/гьабуйлъоб хъизамалъи ххинкIибалъи игье,	гьабуйхоб/гьабуйлъоб	хоб	exp	NA	unexp	exp	1	χo	NA	13	PPR1999F	2	NA	Chiara
+14	5	в третьей семье	family	adverbial group	Гьабуйлъаб хъизаналъи кьунилъи ххинкIибалъи,	гьабуйлъаб	хоб	++	unexp	*	unexp	2	ɬa	NA	13	SGR1957M	3	NA	Chiara
+12	5	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Гьабуйлъаб хъизамалъи бекъа-бекъа и2гьатида хинк1ибалъи, а бугъуйхоб хъизамалъи индак1вала игьата гуч1и хинк1ибалъи.	Гьабуйлъаб	хоб	++	unexp	NA	unexp	2	ɬa	NA	13	RPM1970F	3	NA	Samira
+14	5	в третьей семье	family	adverbial group	Гьабуйлъоб хъизаналъи бекъа-бекъа игье ххинкIибалъи,	гьабуйлъоб	хоб	++	++	unexp	unexp	3	ɬo	NA	13	KAA2001F	3	NA	Chiara
+2	6	в третьем народе	people, nation	adverbial group	Гьабуйхоб халкъилъи йешил рукIе кIазилъи / маше кIаз.	гьабуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	11	PPR1999F	2	NA	Chiara
+2	6	в третьем народе	people, nation	adverbial group	Гьабуйхоб халкъилъи тIоргу йешил кIази маша рукIе.	гьабуйхоб	хоб	exp	*	*	exp	1	χo	NA	11	SGR1957M	3	NA	Chiara
+3	6	В третьем народе все женщины ходят в платках.	people, nation	adverbial group	Гьабуйхоб халкъ казибалъи маша рук1е.	Гьабуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	11	AAD1969F	1	понимается не как “третьий народ”, а “третья часть народа”	Samira
+15	6	В третьем народе все женщины ходят в платках.	people, nation	adverbial group	Гьабуйхоб халкъалъи йешил индаг1ала к1азибалъи шамду рук1е.	Гьабуйхоб	хоб	exp	++	*	exp	1	χo	NA	11	AMG1954M	3	лъоб у андийцев бывает, а не в ботлихском	Samira
+3	6	В третьем народе все женщины ходят в платках.	people, nation	adverbial group	Гьабуйхоб халкъилъи т1олгу(да) йешил к1азибалъилълъи рук1е	Гьабуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	11	GMM1962M	1	NA	Samira
+15	6	В третьем народе все женщины ходят в платках.	people, nation	adverbial group	Гьабуйхоб халкъ к1азибалъи шамду рук1е.	Гьабуйхоб	хоб	exp	++	NA	exp	1	χo	NA	11	OPO1932F	3	NA	Samira
+15	6	В третьем народе все женщины ходят в платках.	people, nation	adverbial group	Гьабуйхоб халкъилъи йешил т1олгуда к1азибалъила шамдуда.	Гьабуйхоб	хоб	exp	++	NA	exp	1	χo	NA	11	RPM1970F	3	NA	Samira
+15	6	В третьем народе все женщины ходят в платках.	people, nation	adverbial group	Гьабуйхоб халкъилъи т1олгу йешил ида к1азибалъи шамдал.	Гьабуйхоб	хоб	exp	*	NA	exp	1	χo	NA	11	ShPO1962F	3	NA	Samira
+15	6	В третьем народе все женщины ходят в платках.	people, nation	adverbial group	Гьабуйлъал халкъич1у бакьуссул йешил к1ази маша рук1е.	Гьабуйлъал	хоб	*	unexp	NA	unexp	2	ɬa	NA	11	MKM1966M	3	NA	Samira
+2	6	в третьем народе	people, nation	adverbial group	Гьабуйлъоб халкъилъи тIолгу йешил рукIе кIазила маша.	гьабуйлъоб	хоб	++	++	unexp	unexp	3	ɬo	NA	11	KAA2001F	3	NA	Chiara
+2	6	в третьем народе	people, nation	adverbial group	Гьабуйлъол халкъилъи тIолгу йешил кIази шамде.	гьабуйлъол	хоб	*	++	unexp	unexp	3	ɬo	NA	11	MSM1980F	3	(лъол)	Chiara
+2	6	в третьем народе	people, nation	adverbial group	Гьабуйлъал адамал рукIе микъа кIазила шамду.	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	AAM1963M	1	гьабуйлъал адамал	Chiara
+2	6	В третьем народе все женщины ходят в платках.	people, nation	adverbial group	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	XPS1962F	2	NA	Samira
+5	7	В четырнадцатом году дети ездили в лагерь.	year	adverbial group	Гьац1алъи бугъуйхоб решиди лагералъа наъа рук1а мак1ил	бугъуйхоб	хоб	exp	*	NA	exp	1	χo	NA	13	RPM1970F	3	NA	Samira
+6	7	В четырнадцатом году дети ездили в лагерь.	year	adverbial group	Гьац1айбугъуйхоб решилъи мак1ил наъа лагерлъа	Гьац1айбугъуйхоб	хоб	exp	NA	*	exp	1	χo	NA	13	XPS1962F	2	NA	Samira
+5	7	В четырнадцатом году дети ездили в лагерь.	year	adverbial group	Гьац1алъи бугъу1хоб решиди мак1ил лагерлъа наъа рук1а	Гьац1алъи бугъу1хоб	хоб	exp	NA	NA	exp	1	χo	NA	13	GMM1962M	1	NA	Samira
+5	7	В четырнадцатом году дети ездили в лагерь.	year	adverbial group	Гьац1алъи бугъуйхоб решиди мак1ил лагералъа наъа рук1а	Гьац1алъи бугъуйхоб	хоб	exp	*	*	exp	1	χo	NA	13	AAD1969F	1	NA	Samira
+5	7	В четырнадцатом году дети ездили в лагерь.	year	adverbial group	Гьац1алъи бугъуйхоб решиди мак1ил лагералъа наъа рук1а.	Гьац1алъи бугъуйхоб	хоб	exp	*	NA	exp	1	χo	NA	13	AMG1954M	3	NA	Samira
+5	7	В четырнадцатом году дети ездили в лагерь.	year	adverbial group	Гьац1алъи бугъуйхоб решиди мак1ил наъа лагералъа.	Гьац1алъи бугъуйхоб	хоб	exp	*	NA	exp	1	χo	NA	13	MKM1966M	3	NA	Samira
+5	7	В четырнадцатом году дети ездили в лагерь.	year	adverbial group	Гьац1алъи бугъуйхоб решилъи мак1ил лагералъа наъе.	Гьац1алъи бугъуйхоб	хоб	exp	*	NA	exp	1	χo	NA	13	OPO1932F	3	NA	Samira
+5	7	В четырнадцатом году дети ездили в лагерь.	year	adverbial group	Гьац1алъи бугъуйхоб решилъи мак1ил наъихал рук1а лагерлъа.	Гьац1алъи бугъуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	ShPO1962F	3	NA	Samira
+6	7	в четырнадцатом году	year	adverbial group	ГьацIалъи бугъуйхоб решиди макIил наъа рукIа лагерлъа.	гьацIалъи бугъуйхоб	хоб	exp	++	NA	exp	1	χo	NA	13	AAM1963M	1	NA	Chiara
+6	7	в четырнадцатом году	year	adverbial group	ГьацIалъи бугъуйхоб решилъи макIил наъа рукIа лагерлъа.	гьацIалъи бугъуйхоб	хоб	exp	*	*	exp	1	χo	NA	13	KAA2001F	3	NA	Chiara
+6	7	в четырнадцатом году	year	adverbial group	ГьацIалъи бугъуйхоб решиди макIил наъа рукIа лагер.	гьацIалъи бугъуйхоб	хоб	exp	++	+	exp	1	χo	NA	13	MSM1980F	3	NA	Chiara
+6	7	в четырнадцатом году	year	adverbial group	ГьацIалъи бугъуйхоб решиди макIил наъида лагерлъа.	гьацIалъи бугъуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	PPR1999F	2	NA	Chiara
+6	7	в четырнадцатом году	year	adverbial group	ГьацIалъи бугъуйхоб решиди макIил лагерлъа наъа рукIа.	гьацIалъи бугъуйхоб	хоб	exp	*	*	exp	1	χo	NA	13	SGR1957M	3	NA	Chiara
+14	8	Во второй семье родилось больше детей.	family	adverbial group	К1ейихоб хизаналъи ц1ц1ик1к1а мак1ил ида	к1ейихоб	хоб	exp	NA	NA	exp	1	χo	NA	12	AAD1969F	1	NA	Samira
+11	8	Во второй семье родилось больше детей.	family	adverbial group	К1ейихоб хъизамалъи мак1ил кьанихи наха.	К1ейихоб	хоб	exp	++	NA	exp	1	χo	NA	12	MKM1966M	3	NA	Samira
+11	8	Во второй семье родилось больше детей.	family	adverbial group	К1ейихоб хъизамалъи наха кьвани мак1ил.	К1ейихоб	хоб	exp	++	NA	exp	1	χo	NA	12	ShPO1962F	3	NA	Samira
+13	8	Во второй семье родилось больше детей.	family	adverbial group	К1ейихоб хизамалъи ида кьани-к1вала мак1ил	К1ейихоб	хоб	exp	NA	NA	exp	1	χo	NA	12	XPS1962F	2	NA	Samira
+14	8	Во второй семье родилось больше детей.	family	adverbial group	NA	К1ейихоб хъизаналъи ц1ц1ик1к1а мак1ил наха	хоб	exp	++	NA	exp	1	χo	NA	12	GMM1962M	1	NA	Samira
+13	8	во второй семье	family	adverbial group	КIейихоб хъизамалъи наха кьани макIил.	кIейихоб	хоб	exp	++	++	exp	1	χo	NA	12	AAM1963M	1	(лъай), (лъой)	Chiara
+13	8	во второй семье	family	adverbial group	КIейихоб хъизаналъи макIил цӀцӀикӀкӀа наха.	кIейихоб	хоб	exp	NA	NA	exp	1	χo	NA	12	MSM1980F	3	NA	Chiara
+13	8	во второй семье	family	adverbial group	КIейихоб/кIейилъоб хъизамалъи нахида кьони макIил.	кIейихоб/кIейилъоб	хоб	exp	NA	unexp	exp	1	χo	NA	12	PPR1999F	2	NA	Chiara
+11	8	Во второй семье родилось больше детей.	family	adverbial group	К1ейихоб(лъаб) хъизаналъи мак1ил ц1ик1к1а ида.	К1ейилъаб	хоб	++	unexp	NA	unexp	2	ɬa	NA	12	AMG1954M	3	SPR1954F вмешивалась и считала что хоб более правильно, в итоге они на это и согласились, но первый ответ AMG1954M.	Samira
+13	8	во второй семье	family	adverbial group	КIейилъаб хъизаналъи кьунилъи макIил наха.	кIейилъаб	хоб	++	unexp	*	unexp	2	ɬa	NA	12	SGR1957M	3	NA	Chiara
+11	8	Во второй семье родилось больше детей.	family	adverbial group	К1ейилъоб хъизамалъи ц1ц1ик1к1а мак1ил нахида.	К1ейилъоб	хоб	++	NA	unexp	unexp	3	ɬo	NA	12	RPM1970F	3	NA	Samira
+13	8	во второй семье	family	adverbial group	КIейилъоб хъизаналъи нахида кьо(/а)ни макIил.	кIейилъоб	хоб	++	++	unexp	unexp	3	ɬo	NA	12	KAA2001F	3	NA	Chiara
+11	8	Во второй семье родилось больше детей.	family	adverbial group	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	OPO1932F	3	NA	Samira
+1	9	Вторая семья живет за границей.	family	core argument	К1ейихоб хъизан бат1еб пачалихъилъи г1умру игьу ида.	К1ейихоб	хоб	exp	++	NA	exp	1	χo	NA	10	AMG1954M	3	NA	Samira
+11	9	Вторая семья живет за границей.	family	core argument	К1ейихоб хъизан цеблада пачалихъилъи ида	К1ейихоб	хоб	exp	++	NA	exp	1	χo	NA	10	GMM1962M	1	NA	Samira
+1	9	Вторая семья живет за границей.	family	core argument	Диб к1ейихоб хъизан г1умру игьатида гьек1уб пачалихъалъи.	к1ейихоб	хоб	exp	*	NA	exp	1	χo	NA	10	MKM1966M	3	NA	Samira
+1	9	Вторая семья живет за границей.	family	core argument	К1ейихоб хъизан ида гьек1уб пачалихъилъи ида г1умру игьата.	К1ейихоб	хоб	exp	NA	NA	exp	1	χo	NA	10	ShPO1962F	3	NA	Samira
+1	9	Вторая семья живет за границей.	family	core argument	К1ейихоб хъизан г1умру гьатида гьек1уб пачалухълъи	К1ейихоб	хоб	exp	NA	++	exp	1	χo	NA	10	XPS1962F	2	NA	Samira
+1	9	вторая семья	family	core argument	КIейихоб хъизан гьанкъудида гьекIуб пачалихъалъи.	кIейихоб	хоб	exp	++	++	exp	1	χo	NA	10	KAA2001F	3	NA	Chiara
+1	9	вторая семья	family	core argument	КIейихоб хъизан гIумру игьуда гьекIуб пачалихъилъи.	кIейихоб	хоб	exp	NA	NA	exp	1	χo	NA	10	MSM1980F	3	NA	Chiara
+1	9	вторая семья	family	core argument	КIейилъай хъизан батIеб пачалихъалъи ида.	кIейихоб	хоб	*	unexp	*	exp	1	χo	NA	10	SGR1957M	3	NA	Chiara
+11	9	Вторая семья живет за границей.	family	core argument	К1ейилъаб хъизан гьек1уб пачалихъилъиида	К1ейилъаб	хоб	+	unexp	NA	unexp	2	ɬa	NA	10	AAD1969F	1	назвала два варианта сразу первый раз – хоб и лъаб, но решила что лъаб будет правильнее	Samira
+1	9	Вторая семья живет за границей.	family	core argument	К1ейилъаб хъизан за границей ида г1умру игьу2.	К1ейилъаб	хоб	*	unexp	NA	unexp	2	ɬa	NA	10	RPM1970F	3	NA	Samira
+1	9	вторая семья	family	core argument	КIейилъай хъизам/гъаркIкIи гIумру игьу ида гьекIуб пачалихъилъи.	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	AAM1963M	1	кIейилъай хъизам/гъаркIкIи	Chiara
+1	9	вторая семья	family	core argument	КIейилъол адамал гьанкъудида за границей.	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	PPR1999F	2	кIейилъол адамал	Chiara
+1	9	Вторая семья живет за границей.	family	core argument	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	OPO1932F	3	NA	Samira
+13	10	Первый народ  был мирным, а во втором народе всегда бывали конфликты.	people, nation	core argument	Гьеч1исеъассуб халкъ ракъирлъи рук1а, к1ейихоб халкъич1у бакьу индаг1ала даг1ба-г1ари бук1ихаб бук1а.	к1ейихоб	хоб	exp	++	NA	exp	1	χo	NA	6	AMG1954M	3	NA	Samira
+13	10	Первый народ  был мирным, а во втором народе всегда бывали конфликты.	people, nation	core argument	Гьеч1исессул халкъ рук1а даг1ба гуч1ал, к1ейихоб халкъ ида индаг1ала даг1ба.	к1ейихоб	хоб	exp	++	NA	exp	1	χo	NA	6	ShPO1962F	3	NA	Samira
+15	10	во втором народе	people, nation	adverbial group	ГьечIисессуб халкъ букIа дагIба идихичIаб, а кIейилъоб халкъилъи индагIалла букIихаб букIа дагIба.	кIейихоб	хоб	++	++	unexp	exp	1	χo	NA	6	KAA2001F	3	NA	Chiara
+15	10	во втором народе	people, nation	adverbial group	ГьечIисессуб народ букIида мирный, а кIейихоб народалъи ???	кIейихоб	хоб	exp	NA	NA	exp	1	χo	NA	6	PPR1999F	2	NA	Chiara
+15	10	во втором народе	people, nation	adverbial group	ГьечIисессуб халкъ ругIади (гванзи) гьаражал рукIа, кIейихоб халкъ хъачIа рукIа.	кIейихоб	хоб	exp	++	*	exp	1	χo	NA	6	SGR1957M	3	NA	Chiara
+7	10	Первый народ был мирным, а во втором народе всегда бывали конфликты.	people, nation	adverbial group	Гьеч1исессуб халкъ ракъу рук1ихал рук1а, амма кьейихоб халкъилъи (гьину) кьонни даг1бабалъи бук1ихаб бук1а	кьейихоб	хоб	exp	NA	NA	exp	1	χo	NA	6	GMM1962M	1	NA	Samira
+15	10	во втором народе	people, nation	adverbial group	ГьечIисессул адамал рук1а рагъ идихичIал (дагIба идихичIал), кIейилъал адамал рукIа питнала дагIабала игьи идихал.	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	AAM1963M	1	кIейилъал адамал	Chiara
+15	10	во втором народе	people, nation	adverbial group	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	MSM1980F	3	NA	Chiara
+7	10	Первый народ был мирным, а во втором народе всегда бывали конфликты.	people, nation	adverbial group	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	AAD1969F	1	NA	Samira
+13	10	Первый народ  был мирным, а во втором народе всегда бывали конфликты.	people, nation	core argument	Гьеч1исеъа рук1ал адамаллуч1у бакьу питна бук1ич1а, к1ейилъол адамаллуч1у бакьу питна индаг1ала ида.	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	MKM1966M	3	к1ейилъол адамаллуч1у	Samira
+13	10	Первый народ  был мирным, а во втором народе всегда бывали конфликты.	people, nation	core argument	Гьеч1исессуб халкъ даг1ба-г1ари гуч1ал рук1а, рехутуссул халкъ даг1ба-г1арилъи рук1е.	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	OPO1932F	3	рехутуссул халкъ	Samira
+13	10	Первый народ  был мирным, а во втором народе всегда бывали конфликты.	people, nation	core argument	Гьич1исессул адамал ракъу рук1ихал рук1а, а к1ейилъал адамал гъаламагъал игьата рук1е.	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	RPM1970F	3	к1ейилъал адамал	Samira
+15	10	Первый народ  был мирным, а во втором народе всегда бывали конфликты.	people, nation	adverbial group	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	XPS1962F	2	NA	Samira
+7	11	пятая дочка	daughter	core argument	Иштуйлъай (дий) йеши йаъида (гьерде) анджелъу.	иштуйлъай	лъай	*	exp	*	exp	2	ɬa	NA	13	AAM1963M	1	NA	Chiara
+7	11	пятая дочка	daughter	core argument	Иштуйлъай йешида йаъа махачкалалъи.	иштуйлъай	лъай	NA	exp	NA	exp	2	ɬa	NA	13	PPR1999F	2	NA	Chiara
+7	11	пятая дочка	daughter	core argument	Иштуйлъай йеши йаъида анджелъу.	иштуйлъай	лъай	*	exp	*	exp	2	ɬa	NA	13	SGR1957M	3	NA	Chiara
+12	11	Пятая дочка учится в Махачкале.	daughter	core argument	Иштуйлъай йеши йаъида анджелъу	Иштуйлъай	лъай	*	exp	NA	exp	2	ɬa	NA	13	AAD1969F	1	NA	Samira
+6	11	Пятая дочка учится в Махачкале.	daughter	core argument	Иштуйлъай йеши йаъа ида Анджелъу.	Иштуйлъай	лъай	*	exp	NA	exp	2	ɬa	NA	13	AMG1954M	3	NA	Samira
+12	11	Пятая дочка учится в Махачкале.	daughter	core argument	Иштуйлъай йеши йаъа ида махачкалалъи	Иштуйлъай	лъай	*	NA	exp	exp	2	ɬa	NA	13	GMM1962M	1	NA	Samira
+6	11	Пятая дочка учится в Махачкале.	daughter	core argument	Иштуйлъай йеши йаъа ида Анджелъу.	Иштуйлъай	лъай	*	exp	++	exp	2	ɬa	NA	13	MKM1966M	3	NA	Samira
+6	11	Пятая дочка учится в Махачкале.	daughter	core argument	Иштуйлъай йеши махачкалалъи йаъида.	Иштуйлъай	лъай	NA	exp	NA	exp	2	ɬa	NA	13	OPO1932F	3	NA	Samira
+6	11	Пятая дочка учится в Махачкале.	daughter	core argument	Иштуйлъай йеши Анджелъу йаъида.	Иштуйлъай	лъай	*	exp	NA	exp	2	ɬa	NA	13	RPM1970F	3	NA	Samira
+6	11	Пятая дочка учится в Махачкале.	daughter	core argument	Иштуйлъай йеши ида йаъа Анджелъи.	Иштуйлъай	лъай	NA	exp	NA	exp	2	ɬa	NA	13	ShPO1962F	3	NA	Samira
+7	11	пятая дочка	daughter	core argument	Иштуйлъой йеши йаъида МахIачхъалъи.	иштуйлъой	лъай	*	*	unexp	unexp	3	ɬo	NA	13	KAA2001F	3	NA	Chiara
+7	11	пятая дочка	daughter	core argument	Иштуйлъой йеши йаъида махачкалалъи/анджелъу.	иштуйлъой	лъай	*	++	unexp	unexp	3	ɬo	NA	13	MSM1980F	3	NA	Chiara
+7	11	Пятая дочка учится в Махачкале.	daughter	core argument	Иштуйлъой йеши йаъида гьерде	Иштуйлъой	лъай	*	NA	unexp	unexp	3	ɬo	NA	13	XPS1962F	2	NA	Samira
+10	12	третья жена	wife	core argument	Гьабуйлъай гъаркIкIи игьида/игьи ида школалъи.	гьабуйлъай	лъай	*	exp	*	exp	2	ɬa	NA	13	AAM1963M	1	NA	Chiara
+10	12	третья жена	wife	core argument	Гьабуйлъай гъаркIкIи игьида школалъи.	гьабуйлъай	лъай	NA	exp	NA	exp	2	ɬa	NA	13	PPR1999F	2	NA	Chiara
+10	12	третья жена	wife	core argument	Гьабуйлъай гъаркIкIи школалъи игьида.	гьабуйлъай	лъай	*	exp	*	exp	2	ɬa	NA	13	SGR1957M	3	NA	Chiara
+13	12	Третья жена работает в школе.	wife	core argument	Гьабуйлъай гьарк1к1и школалъиида игьа	Гьабуйлъай	лъай	*	exp	*	exp	2	ɬa	NA	13	AAD1969F	1	NA	Samira
+8	12	Третья жена работает в школе.	wife	core argument	Гьабуйлъай гьарк1к1и школалъи игьа ида.	Гьабуйлъай	лъай	*	exp	NA	exp	2	ɬa	NA	13	AMG1954M	3	NA	Samira
+13	12	Третья жена работает в школе.	wife	core argument	Гьабуйлъай гьарк1к1и игьа ида школалъи	Гьабуйлъай	лъай	*	NA	exp	exp	2	ɬa	NA	13	GMM1962M	1	NA	Samira
+8	12	Третья жена работает в школе.	wife	core argument	Гьабуйлъай гьарк1к1и игьа ида школалъи.	Гьабуйлъай	лъай	++	exp	NA	exp	2	ɬa	NA	13	MKM1966M	3	NA	Samira
+8	12	Третья жена работает в школе.	wife	core argument	Гьабуйлъай гьарк1к1и игьа ида школалъи.	Гьабуйлъай	лъай	*	exp	++	exp	2	ɬa	NA	13	OPO1932F	3	NA	Samira
+8	12	Третья жена работает в школе.	wife	core argument	Гьабуйлъай гьарк1к1и школалъи игьи2да.	Гьабуйлъай	лъай	*	exp	NA	exp	2	ɬa	NA	13	RPM1970F	3	NA	Samira
+8	12	Третья жена работает в школе.	wife	core argument	Гьабуйлъай гьарк1к1и ида игьа школалъи.	Гьабуйлъай	лъай	NA	exp	NA	exp	2	ɬa	NA	13	ShPO1962F	3	NA	Samira
+10	12	третья жена	wife	core argument	Гьабуйлъой гьаркIкIи игьида школалъи.	гьабуйлъой	лъай	*	++	unexp	unexp	3	ɬo	NA	13	KAA2001F	3	NA	Chiara
+10	12	третья жена	wife	core argument	Гьабуйлъой гъаркIкIи игьида школалъи.	гьабуйлъой	лъай	*	++	unexp	unexp	3	ɬo	NA	13	MSM1980F	3	NA	Chiara
+10	12	Третья жена работает в школе.	wife	core argument	Гьабуйлъой гьарк1к1и игьа ида школалъи	Гьабуйлъой	лъай	*	NA	unexp	unexp	3	ɬo	NA	13	XPS1962F	2	NA	Samira
+8	13	четвертый народ	people, nation	core argument	Бугъуйхоб халкъ гIалхуда рукIе.	бугъуйхоб	хоб	exp	++	*	exp	1	χo	NA	10	SGR1957M	3	NA	Chiara
+14	13	Четвертый народ живет в горах.	people, nation	core argument	Бугъуйхоб халкъиди г1умру игьата ида беебахи.	Бугъуйхоб	хоб	exp	++	NA	exp	1	χo	NA	10	AMG1954M	3	NA	Samira
+8	13	Четвертый народ живет в горах.	people, nation	core argument	Бугъуйхоб халкъиди г1умру гьата (ида) бейбахи ида.	Бугъуйхоб	хоб	exp	++	NA	exp	1	χo	NA	10	GMM1962M	1	NA	Samira
+14	13	Четвертый народ живет в горах.	people, nation	core argument	Бугъуйхоб халкъ г1умру игьата ида беебахи.	Бугъуйхоб	хоб	exp	++	NA	exp	1	χo	NA	10	MKM1966M	3	NA	Samira
+14	13	Четвертый народ живет в горах.	people, nation	core argument	Бугъуйхоб халкъ беебахи г1умру гьатида.	Бугъуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	10	OPO1932F	3	NA	Samira
+14	13	Четвертый народ живет в горах.	people, nation	core argument	Бугъуйхоб халкъиди ида г1умру игьата беебахи.	Бугъуйхоб	хоб	exp	++	NA	exp	1	χo	NA	10	ShPO1962F	3	NA	Samira
+14	13	Четвертый народ живет в горах.	people, nation	core argument	Бугъуйлъаб халкъ гьа2нкъуди кьудехи.	Бугъуйлъаб	хоб	++	unexp	NA	unexp	2	ɬa	NA	10	RPM1970F	3	NA	Samira
+8	13	четвертый народ	people, nation	core argument	Бугъуйлъал халкъ гIумру игьу рекъе.	бугъуйлъал	хоб	++	unexp	++	unexp	2	ɬa	NA	10	MSM1980F	3	(лъаб тоже)	Chiara
+8	13	четвертый народ	people, nation	core argument	Бугъуйлъоб халкъ гьанкъудида рекъехи.	бугьуйлъоб	хоб	++	++	unexp	unexp	3	ɬo	NA	10	KAA2001F	3	NA	Chiara
+8	13	четвертый народ	people, nation	core argument	Бугъуйлъоб народ гьанкъудида в горах.	бугьуйлъоб	хоб	NA	NA	unexp	unexp	3	ɬo	NA	10	PPR1999F	2	NA	Chiara
+8	13	четвертый народ	people, nation	core argument	Бугъуйлъал адамал гIумру игьу ида рекъегье.	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	AAM1963M	1	бугъуйлъал адамал	Chiara
+8	13	Четвертый народ живет в горах.	people, nation	core argument	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	AAD1969F	1	NA	Samira
+8	13	Четвертый народ живет в горах.	people, nation	core argument	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	XPS1962F	2	NA	Samira
+10	14	Четвертый сын хорошо учится.	son	core argument	Бугъуйлъов ваша гванзо ваъа ида	Бугъуйлъов	лъов	*	+	exp	exp	3	ɬo	NA	13	AAD1969F	1	NA	Samira
+9	14	Четвертый сын хорошо учится.	son	core argument	Бугъуйлъов ваша гванзо ваъа ида.	Бугъуйлъов	лъов	*	NA	exp	exp	3	ɬo	NA	13	AMG1954M	3	AMG1954M подсказал бугъуйлъой йеши, но SPR1954F исправила его, что нет такого.	Samira
+10	14	Четвертый сын хорошо учится.	son	core argument	Бугъуйлъов ваша гванзо ваъа ида	Бугъуйлъов	лъов	NA	NA	exp	exp	3	ɬo	NA	13	GMM1962M	1	NA	Samira
+9	14	Четвертый сын хорошо учится.	son	core argument	Бугъуйлъов ваша ваъа ида гванзо.	Бугъуйлъов	лъов	*	NA	exp	exp	3	ɬo	NA	13	MKM1966M	3	NA	Samira
+9	14	Четвертый сын хорошо учится.	son	core argument	Бугъуйлъов ваша гванзо ваъида школалъи.	Бугъуйлъов	лъов	+	NA	exp	exp	3	ɬo	NA	13	OPO1932F	3	NA	Samira
+9	14	Четвертый сын хорошо учится.	son	core argument	Бугъуйлъов ваша гванзо ваъида.	Бугъуйлъов	лъов	*	NA	exp	exp	3	ɬo	NA	13	RPM1970F	3	NA	Samira
+9	14	Четвертый сын хорошо учится.	son	core argument	Бугъуйлъов ваша ваъида гванзо.	Бугъуйлъов	лъов	++	NA	exp	exp	3	ɬo	NA	13	ShPO1962F	3	муж запутал ее	Samira
+11	14	Четвертый сын хорошо учится.	son	core argument	Бугъуйлъов ваша гванзо ваъа ида	Бугъуйлъов	лъов	*	NA	exp	exp	3	ɬo	NA	13	XPS1962F	2	NA	Samira
+11	14	четвертый сын	son	core argument	Бугьуйлъов див ваша гванзо ваъа ида.	бугьуйлъов	лъов	*	*	exp	exp	3	ɬo	NA	13	AAM1963M	1	NA	Chiara
+11	14	четвертый сын	son	core argument	Бугъуйлъов ваша гванзо ваъида.	бугьуйлъов	лъов	*	++	exp	exp	3	ɬo	NA	13	KAA2001F	3	NA	Chiara
+11	14	четвертый сын	son	core argument	Бугъуйлъов ваша гванзо ваъида.	бугьуйлъов	лъов	*	NA	exp	exp	3	ɬo	NA	13	MSM1980F	3	NA	Chiara
+11	14	четвертый сын	son	core argument	Бугьуйлъов вашида гванзо ваъа.	бугьуйлъов	лъов	NA	NA	exp	exp	3	ɬo	NA	13	PPR1999F	2	NA	Chiara
+11	14	четвертый сын	son	core argument	Бугьуйлъов ваша гванзо ваъида.	бугьуйлъов	лъов	*	++	exp	exp	3	ɬo	NA	13	SGR1957M	3	NA	Chiara
+9	15	Шестой класс хорошо учится.	grade	core argument	Инл1ийхоб клас гванзо раъида	Инл1ийхоб	хоб	exp	++	NA	exp	1	χo	NA	13	AAD1969F	1	NA	Samira
+9	15	Шестой класс хорошо учится.	grade	core argument	Инл1ийхоб клас гванзо раъа/баъа ида	Инл1ийхоб	хоб	exp	++	NA	exp	1	χo	NA	13	GMM1962M	1	NA	Samira
+2	15	Шестой класс хорошо учится.	grade	core argument	Инл1ихоб клас гванзо раъа рагьата ида.	Инл1ихоб	хоб	exp	++	NA	exp	1	χo	NA	13	MKM1966M	3	NA	Samira
+2	15	Шестой класс хорошо учится.	grade	core argument	Инл1ихоб клас гванзо раъа ида.	Инл1ихоб	хоб	exp	*	NA	exp	1	χo	NA	13	OPO1932F	3	NA	Samira
+2	15	Шестой класс хорошо учится.	grade	core argument	Инл1ихоб клас ида гванзо раъа.	Инл1ихоб	хоб	exp	NA	NA	exp	1	χo	NA	13	ShPO1962F	3	NA	Samira
+3	15	Шестой класс хорошо учится.	grade	core argument	Инл1ихоб класалъи гванзо раъида	Инл1ихоб	хоб	exp	NA	NA	exp	1	χo	NA	13	XPS1962F	2	NA	Samira
+3	15	шестой класс	grade	core argument	ИнлIиихоб клас гванзо раъа ида.	инлIиихоб	хоб	exp	NA	NA	exp	1	χo	NA	13	AAM1963M	1	NA	Chiara
+3	15	шестой класс	grade	core argument	ИнлIиихоб клас раъида гванзо.	инлIиихоб	хоб	exp	++	++	exp	1	χo	NA	13	KAA2001F	3	NA	Chiara
+3	15	шестой класс	grade	core argument	ИнлIиихоб клас гванзо раъида.	инлIиихоб	хоб	exp	++	++	exp	1	χo	NA	13	MSM1980F	3	NA	Chiara
+3	15	шестой класс	grade	core argument	ИнлIиихоб клас гванзо раъида.	инлIиихоб	хоб	exp	NA	NA	exp	1	χo	NA	13	PPR1999F	2	NA	Chiara
+2	15	Шестой класс хорошо учится.	grade	core argument	Инл1ийлъаб клас гванзо раъида.	Инл1ийлъаб	хоб	++	unexp	NA	unexp	2	ɬa	NA	13	RPM1970F	3	NA	Samira
+2	15	Шестой класс хорошо учится.	grade	core argument	Инл1илъаб класс гванзо раъа ида.	Инл1илъаб	хоб	*	unexp	NA	unexp	2	ɬa	NA	13	AMG1954M	3	NA	Samira
+3	15	шестой класс	grade	core argument	ИнлIиилъаб класалъи макIил гванзо раъида.	инлIиилъаб	хоб	*	unexp	*	unexp	2	ɬa	NA	13	SGR1957M	3	NA	Chiara
+3	16	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб класалъи къиматабалъи гванзи бук1е, гьац1айхоб класалъи гванзи бук1еуч1и.	гьац1айхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	AMG1954M	3	NA	Samira
+2	16	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб класалъи гванзи къир*матабалъи бук1е, амма гьац1айхоб класалъи гванзи къирматабалъи бук1евч1у	гьац1айхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	GMM1962M	1	NA	Samira
+3	16	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб класалъи бук1е гванзи къиматабалъи, гьац1айхоб класалъи гуч1и гванзи къиматабалъи.	гьац1айхоб	хоб	exp	*	*	exp	1	χo	NA	13	MKM1966M	3	NA	Samira
+3	16	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб класалъи бук1е гванзи къиматабалъи, а гьац1айхоб класалъи бук1еч1у.	гьац1айхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	ShPO1962F	3	NA	Samira
+2	16	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб к(а)ласалъи къиматабалъи гванзи бук1е, гьац1айхоблъу гванзи бук1еуч1у.	гьац1айхоблъу	хоб	exp	+	*	exp	1	χo	NA	13	AAD1969F	1	NA	Samira
+3	16	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб класалъи бук1е гванзи къиматабалъи, гьац1айхоблъу бук1еч1у.	гьац1айхоблъу	хоб	exp	*	NA	exp	1	χo	NA	13	RPM1970F	3	NA	Samira
+4	16	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб класалъи къиматабалъи гванзида, гьац1айхоблъу гьушта гуч1и	гьац1айхоблъу	хоб	exp	NA	+	exp	1	χo	NA	13	XPS1962F	2	NA	Samira
+4	16	в десятом классе	grade	adverbial group	гьацIайхоб класалъи гванзи къимат(абалъи) букIевчIу.	гьацIайхоб	хоб	exp	++	++	exp	1	χo	NA	13	AAM1963M	1	NA	Chiara
+4	16	в десятом классе	grade	adverbial group	а гьацIайхоб класалъи букIечIу гванзи къиматабалъи.	гьацIайхоб	хоб	exp	++	++	exp	1	χo	NA	13	KAA2001F	3	NA	Chiara
+4	16	в десятом классе	grade	adverbial group	а гьацIайхоб класалъи букIечIу гванзи къимат.	гьацIайхоб	хоб	exp	++	++	exp	1	χo	NA	13	MSM1980F	3	NA	Chiara
+4	16	в десятом классе	grade	adverbial group	а гьацIайхоблъу/гьацIайхоб класалъи букIевчIу.	гьацIайхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	PPR1999F	2	NA	Chiara
+4	16	в десятом классе	grade	adverbial group	амма гьацIайхоблъу букIевчIи.	гьацIайхоб	хоб	exp	*	*	exp	1	χo	NA	13	SGR1957M	3	NA	Chiara
+3	16	В девятом классе бывают хорошие оценки, а в десятом классе не бывает хороших оценок.	grade	adverbial group	Гьач1айхоб каласалъи къиматабалъи гванзи бук1е, а гьацайхоб каласалъи къилматабалъи къадара бук1е гванзо раъа рагьич1аруди.	гьацайхоб	хоб	exp	++	NA	exp	1	χo	NA	13	OPO1932F	3	NA	Samira
+14	17	в четвертой семье	family	adverbial group	бугъуйхоб хъизамалъи ххинкIибалъи (индакIвалла) игьеучIу.	бугъуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	AAM1963M	1	NA	Chiara
+14	17	в четвертой семье	family	adverbial group	бугъуйхоб хъизамалъи индакIвала игьеучIу.	бугъуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	MSM1980F	3	NA	Chiara
+14	17	в четвертой семье	family	adverbial group	бугъуйхоблъу ида гьеучIи.	бугъуйхоб	хоб	exp	++	*	exp	1	χo	NA	13	SGR1957M	3	NA	Chiara
+1	17	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial phrase	Гьабуйхоб хизамади бекъа-бекъа игье хинк1ибалъи, а бугъуйхоб хизамади хинк1ибалъи игьеуч1у.	бугъуйхоб	хоб	exp	++	++	exp	1	χo	NA	13	AAD1969F	1	NA	Samira
+12	17	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Гьабуйхоб хъизаналъи хинк1ибалъи бекъа-бекъа игье, бугъуйхоб хъизаналъи индак1вала игьевч1и.	бугъуйхоб	хоб	exp	++	NA	exp	1	χo	NA	13	AMG1954M	3	NA	Samira
+1	17	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Гьабуйхоб хъизаналъи кьонни(микъиди) хинк1ибалъи игье, амма бугъуйхоб хъизаналъи хинк1ибалъи игьеуч1и индак1вала.	бугъуйхоб	хоб	exp	NA	NA	exp	1	χo	NA	13	GMM1962M	1	NA	Samira
+12	17	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Диб гьабуйхоб хъизамалъи индаг1ала хинк1ибалъи игье, бугъуйхоб хъизамалъи хинк1ибалъи индак1вала игьеч1у.	бугъуйхоб	хоб	exp	++	NA	exp	1	χo	NA	13	MKM1966M	3	NA	Samira
+12	17	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Гьабуйхоб хъизаналъи хинк1ибалъи бекъа-бекъа игье, бугъуйхоб хъизаналъи индак1вала гьеуч1и.	бугъуйхоб	хоб	exp	*	NA	exp	1	χo	NA	13	OPO1932F	3	NA	Samira
+12	17	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Гьабуйлъаб хъизамалъи бекъа-бекъа и2гьатида хинк1ибалъи, а бугъуйхоб хъизамалъи индак1вала игьата гуч1и хинк1ибалъи.	бугъуйхоб	хоб	exp	*	NA	exp	1	χo	NA	13	RPM1970F	3	NA	Samira
+12	17	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Гьабуйхоб хъизамалъи бекъа-бекъа игье хинк1ибалъи, бугъуйхоб хъизамалъи индак1вала  игьеч1у хинк1ибалъи.	бугъуйхоб	хоб	exp	++	NA	exp	1	χo	NA	13	ShPO1962F	3	NA	Samira
+14	17	В третьей семье часто готовят хинкал, а в четвертой семье никогда не готовят хинкал.	family	adverbial group	Гьабуйхоб хизамалъи бекъа-бекъа игье хинк1ибалъи, а бугъуйхоб хъизамалъи индак1вала игьеуч1у	бугъуйхоб	хоб	exp	NA	*	exp	1	χo	NA	13	XPS1962F	2	NA	Samira
+14	17	в четвертой семье	family	adverbial group	а бугъуйхоб/бугъуйлъоб хъизамалъи ххинкIибалъи (вообще) игьеучIу.	бугъуйхоб/бугъуйлъоб	хоб	exp	NA	unexp	exp	1	χo	NA	13	PPR1999F	2	NA	Chiara
+14	17	в четвертой семье	family	adverbial group	а бугъуйлъоб хъизаналъи индакIвала игьечIу ххинкIибалъи.	бугъуйлъоб	хоб	++	++	unexp	unexp	3	ɬo	NA	13	KAA2001F	3	NA	Chiara
